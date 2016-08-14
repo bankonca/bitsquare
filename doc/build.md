@@ -9,6 +9,9 @@ This guide will walk you through the process of building Bitsquare from source.
 For the impatient
 -----------------
 
+On Ubuntu 16.04 LTS install maven https://maven.apache.org/what-is-maven.html
+$ sudo apt-get install maven
+
 What follows is explained in detail in the sections below, but for those who know their way around Java, git and Maven, here are the instructions in a nutshell:
 
     $ javac -version
